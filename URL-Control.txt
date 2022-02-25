@@ -1,0 +1,6 @@
+
+Open gate
+http://192.168.1.9/user=admin&password=secret&command=OpenGate
+
+Close gate
+http://192.168.1.9/user=admin&password=secret&command=CloseGate
